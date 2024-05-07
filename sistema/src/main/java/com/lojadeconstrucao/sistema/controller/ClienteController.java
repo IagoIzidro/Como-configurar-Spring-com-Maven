@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 // annotation
 @Controller
-@RequestMapping("/cliente")
+@RequestMapping("/c")
 public class ClienteController {
 
 	@GetMapping
